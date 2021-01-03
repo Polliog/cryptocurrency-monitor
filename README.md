@@ -6,7 +6,7 @@
 
 * Please consider that the app is only in Beta and you may encounter errors while using it feel fre to submit issues and enchantment requests.
 
-#Index
+# Index
 - [Releases](#release-history)
 - [Installation](#installation)
 - [Deployment setup](#deployment-setup)
@@ -14,7 +14,7 @@
 - [Contributing](#contributing)
 
 
-#Release History
+# Release History
 * 0.1 First Release
 
 # Installation
@@ -35,12 +35,12 @@ After you can proceed to run the app
 ```
 go run main.go
 ```
-#Meta
+# Meta
 Distributed under the [MIT License](https://github.com/rivo/tview/blob/master/LICENSE.txt) license. See `LICENSE` for more information.
 
 https://github.com/Polliog/cryptocurrency-monitor
 
-#Contributing
+# Contributing
 
 1. **Fork** the repo on GitHub (https://github.com/Polliog/cryptocurrency-monitor/fork)
 2. **Clone** the project to your own machine
